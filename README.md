@@ -38,7 +38,8 @@ A Streamlit app that lets you interact with any **YouTube video** (with English 
 2 **Set Up Virtual Environment**
 
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+
+source venv/bin/activate        # Windows: venv\Scripts\activate
 
 3.**Install Requirements**
 
