@@ -36,22 +36,28 @@ A Streamlit app that lets you interact with any **YouTube video** (with English 
    git clone https://github.com/13Anisha/RAG.git
    cd RAG
 2 **Set Up Virtual Environment**
+
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 3.**Install Requirements**
+
 pip install -r requirements.txt
 
 4.**Configure Secrets**
+
 Create a file at .streamlit/secrets.toml:
+
 GROQ_API_KEY = "your_groq_api_key_here"
 
 5.**Run the App**
+
 streamlit run app.py
 
 
 
 ## How It Works
+
 1.User inputs a YouTube video ID
 
 2.Transcript is fetched (English only)
