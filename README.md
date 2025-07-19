@@ -37,7 +37,7 @@ Clone the repository to your local machine and navigate into the project directo
 
 git clone https://github.com/13Anisha/RAG
 
-cd RAG-Video-Assistant
+cd "your folder"
 
 ## 2. Install Dependencies
 Make sure you have Python 3.9+ installed. Then, install the required packages:
