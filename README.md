@@ -35,7 +35,7 @@ This project is a **Streamlit application** that uses **Retrieval-Augmented Gene
 
 Clone the repository to your local machine and navigate into the project directory:
 
-git clone https://github.com/13Anisha/RAG
+git clone https://github.com/13Anisha/RAG.git
 
 cd "your folder"
 
